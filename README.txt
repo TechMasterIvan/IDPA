@@ -19,3 +19,4 @@ muss man die Zeile hier anpassen
 		    ^				      ^
 
 Momentan ist der Zeitabstand auf 5 Sekunden festgelegt.
+(Im main.py ist der Zeitabstand gerade auf 20 Sekunden eingestellt)
